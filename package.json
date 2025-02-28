@@ -5,7 +5,7 @@
   "sideEffects": false,
   "main": "s3.mjs",
   "dependencies": {
-    "@aws-sdk/client-s3": "3.750.0",
+    "@aws-sdk/client-s3": "3.758.0",
     "@rollup/plugin-commonjs": "25.0.7",
     "@rollup/plugin-json": "6.0.1",
     "@rollup/plugin-node-resolve": "15.2.3"
